@@ -1,5 +1,0 @@
-setup.py
-file_json_logger.egg-info/PKG-INFO
-file_json_logger.egg-info/SOURCES.txt
-file_json_logger.egg-info/dependency_links.txt
-file_json_logger.egg-info/top_level.txt

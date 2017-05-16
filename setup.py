@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='file-json-logger',
-    version='0.1.1',
+    version='0.1.3',
     packages=find_packages(),
     requires=['python (>= 2.5)'],
     description='It allows you save json-logs into file. Special for Kibana',
