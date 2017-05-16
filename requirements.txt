@@ -1,0 +1,1 @@
+JSON-log-formatter >= 0.2.0
