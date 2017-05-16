@@ -55,7 +55,3 @@ class CustomJsonLogger:
         params["log_id"] = self.uuid
         params["level"] = DEBUG
         self.logger.debug(message, extra=params)
-
-logger = CustomJsonLogger(__name__)
-
-logger.error("oshibka", params={"email":"mojkot@mail.ru"})
