@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: file-json-logger
+Version: 0.1.1
+Summary: It allows you save json-logs into file. Special for Kibana
+Home-page: https://github.com/sfilatov96/file-json-logger
+Author: Stepan Filatov
+Author-email: stepa-filatov@yandex.ru
+License: MIT License
+Download-URL: https://github.com/sfilatov96/file-json-logger/tarball/master
+Description: UNKNOWN
+Keywords: json-logger
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Requires: python (>= 2.5)

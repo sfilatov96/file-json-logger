@@ -3,17 +3,17 @@
 
 from setuptools import setup, find_packages
 
+
 setup(
     name='file-json-logger',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     requires=['python (>= 2.5)'],
     description='It allows you save json-logs into file. Special for Kibana',
-    long_description=open('README.md').read(),
     author='Stepan Filatov',
     author_email='stepa-filatov@yandex.ru',
-    url='https://github.com/un1t/django-cleanup',
-    download_url='https://github.com/un1t/django-cleanup/tarball/master',
+    url='https://github.com/sfilatov96/file-json-logger',
+    download_url='https://github.com/sfilatov96/file-json-logger/tarball/master',
     license='MIT License',
     keywords='json-logger',
     classifiers=[
